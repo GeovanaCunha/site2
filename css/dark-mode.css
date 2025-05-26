@@ -17,3 +17,9 @@ body.dark-mode .btn-accessibility:hover {
     background: #7a357b;
 }
 
+body.dark-mode .content {
+    background-color: #3c003f;
+    box-shadow: 0 0 12px #a84da0;
+    color: #e2b3d9;
+}
+
