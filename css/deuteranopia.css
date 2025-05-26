@@ -1,0 +1,4 @@
+/* Daltonismo Deuteranopia */
+body, .sidebar, .content, .btn-accessibility, .btn-circular {
+    filter: url('#deuteranopia');
+}
