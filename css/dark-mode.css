@@ -28,4 +28,7 @@ body.dark-mode .tabs .tab {
     color: #e2b3d9;
 }
 
-
+body.dark-mode .tabs .tab.active {
+    background: #d57ad5;
+    color: #2e0038;
+}
