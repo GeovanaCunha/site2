@@ -13,4 +13,7 @@ body.dark-mode .btn-accessibility {
     color: white;
 }
 
+body.dark-mode .btn-accessibility:hover {
+    background: #7a357b;
+}
 
