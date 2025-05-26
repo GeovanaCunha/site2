@@ -1,0 +1,4 @@
+/* Daltonismo Protanopia */
+body, .sidebar, .content, .btn-accessibility, .btn-circular {
+    filter: url('#protanopia');
+}
