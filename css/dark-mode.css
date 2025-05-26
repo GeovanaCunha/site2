@@ -23,3 +23,9 @@ body.dark-mode .content {
     color: #e2b3d9;
 }
 
+body.dark-mode .tabs .tab {
+    background: #7a357b;
+    color: #e2b3d9;
+}
+
+
