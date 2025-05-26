@@ -1,0 +1,34 @@
+body {
+    background-color: #ffe6f0; /* rosa claro */
+    color: #4b004b;
+}
+
+.sidebar {
+    background: #ffd6e8;
+    border-right: 2px solid #ffb3cc;
+}
+
+.btn-accessibility {
+    background: #e559a9;
+    color: white;
+}
+
+.btn-accessibility:hover {
+    background: #b6387d;
+}
+
+.content {
+    background-color: white;
+    color: #4b004b;
+    box-shadow: 0 0 10px #ff99cc;
+}
+
+.tabs .tab {
+    background: #f8c8e4;
+    color: #a0006e;
+}
+
+.tabs .tab.active {
+    background: #d50082;
+    color: white;
+}
