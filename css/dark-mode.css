@@ -1,4 +1,11 @@
 body.dark-mode {
     background-color: #2e0038;
     color: #e2b3d9;
+}
+
+body.dark-mode .sidebar {
+    background: #450052;
+    border-right: 2px solid #a84da0;
+}
+
 
